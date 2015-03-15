@@ -11,8 +11,7 @@ Build
     sculpin install
     sculpin generate --watch --server
 
-Your newly generated clone of sculpin-blog-skeleton is now
-accessible at `http://localhost:8000/`.
+Your newly generated clone of the site is now accessible at `http://localhost:8000/`.
 
 ### If You Need Sculpin
 
