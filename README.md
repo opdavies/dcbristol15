@@ -3,6 +3,8 @@ drupalcampbristol
 
 A version of the initial [DrupalCamp Bristol](http://2015.drupalcampbristol.co.uk) website, built on [Sculpin](http://sculpin.io).
 
+Originally forked from the [sculpin-minimal](https://github.com/opdavies/sculpin-minimal) repository.
+
 Build
 -----
 
