@@ -1,5 +1,5 @@
 ---
 layout: default
-title: About
+title: About DrupalCamp Bristol
 ---
-# About DrupalCamp Bristol
+# About
