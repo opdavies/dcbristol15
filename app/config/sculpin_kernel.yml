@@ -3,5 +3,7 @@ sculpin:
 sculpin_content_types:
   posts:
     enabled: false
+  sponsors:
+     permalink: sponsors/:slug_title/
 sculpin_theme:
   theme: drupalcampbristol/dcbristol2015
