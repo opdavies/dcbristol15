@@ -5,9 +5,11 @@ sculpin_content_types:
     enabled: false
   speakers:
     permalink: speakers/:slug_title/
+    enabled: false
   sponsors:
     permalink: sponsors/:slug_title/
   talks:
     permalink: talks/:slug_title/
+    enabled: false
 sculpin_theme:
   theme: drupalcampbristol/dcbristol2015
