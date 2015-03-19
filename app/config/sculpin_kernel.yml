@@ -1,5 +1,7 @@
 sculpin:
   permalink: pretty
+  ignore:
+    - '_examples/*'
 sculpin_content_types:
   posts:
     enabled: false
