@@ -5,7 +5,8 @@ logo: microserve.png
 website: http://www.microserveltd.co.uk
 twitter: https://twitter.com/MicroserveLtd
 drupalorg: https://www.drupal.org/marketplace/microserve
-use: [sponsors]
+use:
+  - sponsors
 ---
 [Microserve](http://www.microserveltd.co.uk) is a Drupal web development agency based in Bristol, UK, specialising in Drupal Development, Drupal Training, Hosting and Site Audits. Our Drupal experts also have proven experience in a variety of other industry specific areas such as Responsive Design (Mobile) and SEO.
 

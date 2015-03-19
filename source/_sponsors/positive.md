@@ -5,7 +5,8 @@ logo: positive.png
 website: http://positivestudio.co.uk
 twitter: https://twitter.com/MicroserveLtd
 drupalorg: https://www.drupal.org/node/2394673
-use: [sponsors]
+use:
+  - sponsors
 ---
 We’re a digital agency.
 

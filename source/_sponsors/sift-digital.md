@@ -5,7 +5,8 @@ logo: sift-digital.png
 website: http://www.siftdigital.co.uk
 twitter: https://twitter.com/SiftDigital
 drupalorg: https://www.drupal.org/node/1946418
-use: [sponsors]
+use:
+  - sponsors
 ---
 We are a user-centred digital agency specialising in strategy, user experience, creative branding and web development.
 
