@@ -1,4 +1,9 @@
 /* TEAM */
+	Developer: Chris Jarvis
+	Site: http://www.chrisjarvis.co.uk
+	Twitter: @chrisjarvis1
+	Location: Bristol, UK
+
 	Developer: Oliver Davies
 	Site: http://www.oliverdavies.co.uk
 	Twitter: @opdavies
