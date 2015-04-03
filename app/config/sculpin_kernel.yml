@@ -6,6 +6,9 @@ sculpin:
     - '**/config.rb'
     - '**/Gemfile*'
 sculpin_content_types:
+  attendees:
+    permalink: attendees/:slug_title/
+    layout: default
   posts:
     enabled: false
   speakers:
