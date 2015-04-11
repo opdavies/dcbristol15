@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <h1>Organisational Sponsors</h1>
-      {% for sponsor in site.sponsors if sponsor.level == 1 %}
+      {% for sponsor in site.sponsors if sponsor.level == 0 %}
         <div class="sponsor col-md-4">
           <a href="{{ sponsor.website }}" target="_blank">
             <img class="sponsor--logo" src="{{ site.url }}/img/logos/{{ sponsor.logo }}" title="{{ sponsor.title }}" alt="{{ sponsor.title }} logo"/>
