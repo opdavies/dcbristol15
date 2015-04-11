@@ -1,16 +1,14 @@
-{% if data.sponsors %}
-  <div class="full-wrapper sponsers">
-    <div class="container">
-      <div class="row">
-        <h1>Organisational Sponsors</h1>
-        {% for sponsor in data.sponsors %}
-          <div class="sponsor col-md-4">
-            <a href="{{ sponsor.url }}" target="_blank">
-              <img class="sponsor--logo" src="{{ site.url }}/img/logos/{{ sponsor.logo }}" title="{{ sponsor.title }}" alt="{{ sponsor.title }} logo"/>
-            </a>
-          </div>{# .sponsor #}
-        {% endfor %}
-      </div>{# .row #}
-    </div>{# .container #}
-  </div>{# .sponsers #}
-{% endif %}
+<div class="full-wrapper sponsers">
+  <div class="container">
+    <div class="row">
+      <h1>Organisational Sponsors</h1>
+      {% for sponsor in site.sponsors if sponsor.level == 1 %}
+        <div class="sponsor col-md-4">
+          <a href="{{ sponsor.website }}" target="_blank">
+            <img class="sponsor--logo" src="{{ site.url }}/img/logos/{{ sponsor.logo }}" title="{{ sponsor.title }}" alt="{{ sponsor.title }} logo"/>
+          </a>
+        </div>{# .sponsor #}
+      {% endfor %}
+    </div>{# .row #}
+  </div>{# .container #}
+</div>{# .sponsers #}
