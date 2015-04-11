@@ -2,3 +2,17 @@ title: DrupalCamp Bristol 2015
 description: 3rd-4th July - Bristol, UK
 url: http://localhost:8000
 template: splash
+
+sponsors:
+  - name: Microserve
+    website: http://www.microserveltd.co.uk
+    logo: microserve.png
+    level: 1
+  - name: Sift Digital
+    website: http://www.siftdigital.co.uk
+    logo: sift-digital.png
+    level: 1
+  - name: Positive
+    website: http://positivestudio.co.uk
+    logo: positive.png
+    level: 1
