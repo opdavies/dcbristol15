@@ -1,9 +1,7 @@
 <h2>Featured Attendees</h2>
 
 <ul>
-{% for attendee in data.attendees %}
-  {% if attendee.featured %}
+  {% for attendee in data.attendees if attendee.featured %}
     <li><a href="{{ attendee.url }}">{{ attendee.title }} ({{ attendee.username }})</a></li>
-  {% endif %}
-{% endfor %}
+  {% endfor %}
 </ul>
