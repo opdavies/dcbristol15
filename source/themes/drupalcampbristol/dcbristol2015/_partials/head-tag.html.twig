@@ -8,7 +8,7 @@
 
   {% block meta %}{% endblock %}
   <link rel="icon" href="/favicon.ico">
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if site.description %} | {{ site.description }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if site.subtitle %} | {{ site.subtitle }}{% endif %}</title>
 
   <link href="{{ site.url }}/{{ theme_path('assets/css/styles.css') }}" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>

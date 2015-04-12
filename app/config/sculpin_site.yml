@@ -1,4 +1,19 @@
 title: DrupalCamp Bristol 2015
-description: 3rd-4th July - Bristol, UK
-url: http://localhost:8000
+subtitle: 3rd-4th July - Bristol, UK
+dates: 3rd-4th July
+twitter_url: http://www.twitter.com/DrupalCampBris
 template: splash
+
+sponsors:
+  - name: Microserve
+    link: http://www.microserveltd.co.uk
+    logo: microserve.png
+    level: 0
+  - name: Sift Digital
+    link: http://www.siftdigital.co.uk
+    logo: sift-digital.png
+    level: 0
+  - name: Positive
+    link: http://positivestudio.co.uk
+    logo: positive.png
+    level: 0

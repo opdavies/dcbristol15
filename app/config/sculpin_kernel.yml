@@ -14,8 +14,6 @@ sculpin_content_types:
   speakers:
     permalink: speakers/:slug_title/
     enabled: false
-  sponsors:
-    permalink: sponsors/:slug_title/
   talks:
     permalink: talks/:slug_title/
     enabled: false
