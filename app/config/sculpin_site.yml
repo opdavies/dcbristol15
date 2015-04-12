@@ -4,14 +4,14 @@ template: splash
 
 sponsors:
   - name: Microserve
-    website: http://www.microserveltd.co.uk
+    link: http://www.microserveltd.co.uk
     logo: microserve.png
     level: 0
   - name: Sift Digital
-    website: http://www.siftdigital.co.uk
+    link: http://www.siftdigital.co.uk
     logo: sift-digital.png
     level: 0
   - name: Positive
-    website: http://positivestudio.co.uk
+    link: http://positivestudio.co.uk
     logo: positive.png
     level: 0
