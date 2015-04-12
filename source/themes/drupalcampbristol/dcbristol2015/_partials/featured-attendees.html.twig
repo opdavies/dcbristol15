@@ -1,0 +1,12 @@
+{% set found = false %}
+{% for attendee in site.attendees if attendee.featured %}
+  {% if loop.first %}
+    {% set found = true %}
+    <h2>Featured Attendees</h2>
+    <ul>
+  {% endif %}
+  <li><a href="{{ attendee.link }}">{{ attendee.name }} ({{ attendee.username }})</a></li>
+  {% if found %}
+    </ul>
+  {% endif %}
+{% endfor %}

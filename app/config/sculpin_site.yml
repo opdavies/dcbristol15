@@ -17,3 +17,10 @@ sponsors:
     link: http://positivestudio.co.uk
     logo: positive.png
     level: 0
+
+attendees:
+  - name: test
+    username: test
+    link: https://drupal.org/u/opdavies
+    photo:
+    featured: true
