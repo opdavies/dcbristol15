@@ -24,3 +24,50 @@ attendees:
     link: https://drupal.org/u/opdavies
     photo:
     featured: true
+
+committee:
+  - name: Rick Donohoe
+    org: Microserve
+    drupalorg:
+    twitter: 
+    roles: Committee Chairman
+  - name: Oliver Davies
+    org: Drupal Association
+    drupalorg: opdavies
+    twitter: opdavies
+    roles: Marketing, Website
+  - name: Rich Saddington
+    org: Sift Digital
+    drupalorg:
+    twitter: rsaddington
+    roles:
+  - name: Adrian Bateman
+    org: Polynya
+    drupalorg: 
+    twitter: polynya_co_uk
+    roles:
+  - name: Emily Coward
+    org: Nomensa
+    drupalorg:
+    twitter: emcoward
+    roles:
+  - name: Jon Hadley
+    org: Positive
+    drupalorg:
+    twitter: mintsauce
+    roles:
+  - name: Mark Pavlitski
+    org: Microserve
+    drupalorg:
+    twitter: markpavlitski
+    roles:
+  - name: Mike Dodd
+    org: Mitkom Ltd
+    drupalorg:
+    twitter: Mitkom_uk
+    roles:
+  - name: Tom Metcalfe
+    org: Black Label Web Design
+    drupalorg:
+    twitter: blwd_uk
+    roles:
